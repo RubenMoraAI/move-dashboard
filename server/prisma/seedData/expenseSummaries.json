@@ -1,0 +1,362 @@
+[
+  {
+    "expenseSummaryId": "83126cd0-17af-4f80-8d0e-a816293a02b6",
+    "totalExpenses": 13828697.41,
+    "date": "2019-01-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "861cdfb0-e712-455d-a3c0-7363def58b32",
+    "totalExpenses": 5931152.23,
+    "date": "2019-02-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "93729032-1003-44da-a756-24ada8fdd5c4",
+    "totalExpenses": 31181586.44,
+    "date": "2019-03-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "aa6fcc75-74d2-4d92-8d65-6ad20983d7c0",
+    "totalExpenses": 100756741.61,
+    "date": "2019-04-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "4b6d7d98-7cfa-4f44-b4da-1464cf7dc883",
+    "totalExpenses": 23185078.82,
+    "date": "2019-05-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "a9044ffa-a9b8-4d17-8509-dd7b57c2a42b",
+    "totalExpenses": 128802596.89,
+    "date": "2019-06-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "03113397-b227-4a6a-a15f-9738ab124850",
+    "totalExpenses": 140938400.94,
+    "date": "2019-07-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "e4a45a06-29f9-46a0-825c-c58c5f3cf271",
+    "totalExpenses": 89265811.05,
+    "date": "2019-08-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "32e238dd-bfee-4014-a616-bce1476dc7f4",
+    "totalExpenses": 146432523.48,
+    "date": "2019-09-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "45fdaff9-5c58-49b7-a70b-1519c3b7867e",
+    "totalExpenses": 85478712.17,
+    "date": "2019-10-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "b433000a-4702-4d85-9af1-e5fb3ad6e82d",
+    "totalExpenses": 143601858.99,
+    "date": "2019-11-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "ee9e8675-d22c-48a5-bb55-5e01b468bf6b",
+    "totalExpenses": 149086763.98,
+    "date": "2019-12-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "432564ac-7420-409a-8fa9-424fd1dac74e",
+    "totalExpenses": 67918875.65,
+    "date": "2020-01-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "250b9e2d-3ee1-4dde-b237-ae1a282e6880",
+    "totalExpenses": 107160708.91,
+    "date": "2020-02-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "78dcca0a-92d3-40d6-b508-dd4c6ced490a",
+    "totalExpenses": 16512639.29,
+    "date": "2020-03-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "608529d9-9aab-4744-b89d-483502b45970",
+    "totalExpenses": 34839128.72,
+    "date": "2020-04-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "934bcec9-1b1b-42ca-ad56-9b29e3b67852",
+    "totalExpenses": 76072740.11,
+    "date": "2020-05-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "ee55a17a-e0bf-428a-9718-f755f5fd155b",
+    "totalExpenses": 135699624.44,
+    "date": "2020-06-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "34d65670-6b74-477d-a873-63d0fa5df8d1",
+    "totalExpenses": 55399357.2,
+    "date": "2020-07-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "074d8e3e-6020-4141-9518-7b957a047be1",
+    "totalExpenses": 53633981.39,
+    "date": "2020-08-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "a2fd480c-bb03-4ed8-b725-26e6a5844197",
+    "totalExpenses": 108091044.46,
+    "date": "2020-09-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "acb249d7-af18-4f99-a151-329aaa0f2154",
+    "totalExpenses": 30038544.47,
+    "date": "2020-10-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "e08d8c13-273d-4a0d-8990-26c759210bc9",
+    "totalExpenses": 72019120.31,
+    "date": "2020-11-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "ce091972-caf4-46c3-8f50-d1cb09804db7",
+    "totalExpenses": 14956745.54,
+    "date": "2020-12-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "6e5bd951-319f-4876-9dee-5bea7557d3d0",
+    "totalExpenses": 56297291.29,
+    "date": "2021-01-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "6c3a965b-99bb-4af5-9ee3-f3275fdb43b6",
+    "totalExpenses": 125837428.44,
+    "date": "2021-02-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "d081d789-a254-463e-abb0-9d96458b97ab",
+    "totalExpenses": 122120417.83,
+    "date": "2021-03-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "4825637a-9bcb-42ff-abe7-8f2dae3f0819",
+    "totalExpenses": 59086022.8,
+    "date": "2021-04-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "a7068ea4-3831-45e1-8ef1-ff7c486c137e",
+    "totalExpenses": 34614205.51,
+    "date": "2021-05-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "3bad039a-84df-4be3-a1af-9255440e6949",
+    "totalExpenses": 71027391.75,
+    "date": "2021-06-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "9cb47140-e71c-49dc-bed2-bc7d5dd9482b",
+    "totalExpenses": 112588465.85,
+    "date": "2021-07-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "ff6ab500-9458-4d9b-8fdb-e8b35a05086e",
+    "totalExpenses": 22808248.05,
+    "date": "2021-08-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "51be413b-1c2e-42e8-9bf7-f5ce9d62cce7",
+    "totalExpenses": 1566509.86,
+    "date": "2021-09-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "c070c390-df75-472f-983c-27ca006c9984",
+    "totalExpenses": 43304774.6,
+    "date": "2021-10-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "521f257b-7a4e-4bd9-ab24-9596adff9fcf",
+    "totalExpenses": 107185516.65,
+    "date": "2021-11-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "6092e027-322c-4da2-9dc8-6147875bd555",
+    "totalExpenses": 105716777.76,
+    "date": "2021-12-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "f71772ca-eceb-499d-885a-778755d53354",
+    "totalExpenses": 137022328.16,
+    "date": "2022-01-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "e2f5d6c5-c2d0-4057-ad5f-733b0702dbc1",
+    "totalExpenses": 8714368.9,
+    "date": "2022-02-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "69a2b53c-6ce0-4edc-bff8-84a371e734c9",
+    "totalExpenses": 134205663.61,
+    "date": "2022-03-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "5f4e4fe9-4ee7-4524-8597-94f2b29a07b4",
+    "totalExpenses": 20250621.32,
+    "date": "2022-04-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "997dc93c-9567-40fe-a683-8f63d696fe81",
+    "totalExpenses": 120200324.53,
+    "date": "2022-05-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "eef362c5-859a-46da-b285-9e225ce7b6b6",
+    "totalExpenses": 82472193.46,
+    "date": "2022-06-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "e6050079-1b52-4718-b8fd-e1f640289b4e",
+    "totalExpenses": 100876451.35,
+    "date": "2022-07-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "04e95124-d11c-4e75-9db0-1e49b317a139",
+    "totalExpenses": 74055805.81,
+    "date": "2022-08-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "e30ed18c-6d42-478d-bca7-f144ffe82733",
+    "totalExpenses": 68732580,
+    "date": "2022-09-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "e621bd3f-b06b-42e9-87d1-c62e95adf2b3",
+    "totalExpenses": 120048313.03,
+    "date": "2022-10-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "7c5229d1-e781-4e88-85f5-2325ff9b25ef",
+    "totalExpenses": 143113230.03,
+    "date": "2022-11-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "dd94e8af-59ff-4232-beb3-a5505ce2294d",
+    "totalExpenses": 118090248.59,
+    "date": "2022-12-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "dee68e2a-3fb8-4abf-99f4-b7e0e24806a3",
+    "totalExpenses": 60939252.33,
+    "date": "2023-01-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "cfb4b8a5-7532-4f55-b655-1b0218f5d0f4",
+    "totalExpenses": 110936469.08,
+    "date": "2023-02-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "1d4a7c18-91a1-42f7-8544-22e064f6bb36",
+    "totalExpenses": 108301858.27,
+    "date": "2023-03-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "72a6ea71-03c2-42a1-a6d2-279344bbc74e",
+    "totalExpenses": 149049914.2,
+    "date": "2023-04-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "700a14e1-1522-4bc1-acf4-808143653aa8",
+    "totalExpenses": 49091121.35,
+    "date": "2023-05-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "4e430ac8-21c9-46fc-a4e2-da65e650d67d",
+    "totalExpenses": 17837990.67,
+    "date": "2023-06-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "44417f0f-c9c1-4db8-98e0-c01ec7e2aa6b",
+    "totalExpenses": 111858762.07,
+    "date": "2023-07-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "d95c2a84-1a37-455d-a896-5d892cb3479f",
+    "totalExpenses": 141456888.38,
+    "date": "2023-08-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "b8572a37-dba6-4565-8424-9a7b42544d73",
+    "totalExpenses": 77368350.51,
+    "date": "2023-09-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "99a905ab-ff05-46f1-85ce-725aa584a7a3",
+    "totalExpenses": 31997513.36,
+    "date": "2023-10-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "ce71db4a-35dc-4f0b-9061-08497301c9a4",
+    "totalExpenses": 64276483.92,
+    "date": "2023-11-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "539d4a9a-e476-4fc3-9bba-8459de919e1c",
+    "totalExpenses": 15913328.13,
+    "date": "2023-12-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "5d0a3df2-f82c-4aa4-a54b-3d60e8acda3c",
+    "totalExpenses": 91686189.95,
+    "date": "2024-01-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "72756e39-c864-4684-b61b-8024b94ab63b",
+    "totalExpenses": 146260204.72,
+    "date": "2024-02-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "5c0ec961-6960-4e01-bf8a-6bf7f87aab73",
+    "totalExpenses": 19690228.58,
+    "date": "2024-03-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "fea49874-e580-443d-833d-4f938b0e0292",
+    "totalExpenses": 24520461.52,
+    "date": "2024-04-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "276df74f-c460-456a-a56f-fbb85637eb9c",
+    "totalExpenses": 116280637.85,
+    "date": "2024-05-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "d9289b95-1600-4bbb-be86-2b5376a40cbc",
+    "totalExpenses": 120239920.24,
+    "date": "2024-06-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "45b5218c-a849-4658-bbf7-121bcf43f4fa",
+    "totalExpenses": 136984056.82,
+    "date": "2024-07-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "58bf81f0-0bd5-40dd-ae14-92936951bfca",
+    "totalExpenses": 84551810.48,
+    "date": "2024-08-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "3d1eca81-d3e3-4e0c-a552-7a38d08695b6",
+    "totalExpenses": 79499500.8,
+    "date": "2024-09-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "8f18b693-89d3-4cbd-81d9-6ec106cfc16c",
+    "totalExpenses": 117586888.09,
+    "date": "2024-10-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "8058faf2-fac2-4dc5-9f26-0754af9f6b5b",
+    "totalExpenses": 38590705.22,
+    "date": "2024-11-01T06:00:00.000Z"
+  },
+  {
+    "expenseSummaryId": "a708c06f-e5a3-474b-a9a6-7422a5279d30",
+    "totalExpenses": 26530911.5,
+    "date": "2024-12-01T06:00:00.000Z"
+  }
+]

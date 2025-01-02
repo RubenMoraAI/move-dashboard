@@ -1,0 +1,434 @@
+[
+  {
+    "salesSummaryId": "ff1e624c-1b87-4065-b2db-2c01cef3d6f5",
+    "totalValue": 66989901.3,
+    "changePercentage": -92.74,
+    "date": "2019-01-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "1edcfc50-c4e4-4d97-b008-da8bd03dba21",
+    "totalValue": 4702864.5,
+    "changePercentage": -88.45,
+    "date": "2019-02-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "38a3d536-448b-47a7-b926-9cef17d54de5",
+    "totalValue": 69232245.03,
+    "changePercentage": -91.76,
+    "date": "2019-03-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "0a00bd3a-052a-4580-96db-1fc05b3e44b8",
+    "totalValue": 121689425.86,
+    "changePercentage": 10.43,
+    "date": "2019-04-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "6b344a8c-1ee7-4b06-a06d-d01701a944ba",
+    "totalValue": 13310373.83,
+    "changePercentage": 34.61,
+    "date": "2019-05-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "92fbb8f5-6e68-445e-af22-c259c435af78",
+    "totalValue": 129226991.29,
+    "changePercentage": -83.26,
+    "date": "2019-06-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "8d4a65af-9f14-4982-96b9-24a2826ec180",
+    "totalValue": 20491480.29,
+    "changePercentage": 91.4,
+    "date": "2019-07-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "7c9c4fbb-0cf7-48ce-9669-5b920a4f4c2a",
+    "totalValue": 54975429.17,
+    "changePercentage": -36.06,
+    "date": "2019-08-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "71725233-874a-4130-8854-d144270cd919",
+    "totalValue": 143491056.3,
+    "changePercentage": 80.17,
+    "date": "2019-09-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "b6c31bc2-dd50-41c8-a81f-1f6e046b95cc",
+    "totalValue": 122552898.57,
+    "changePercentage": 58.57,
+    "date": "2019-10-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "9e32853b-1eca-4ac8-a6ef-685d3f1e3c3a",
+    "totalValue": 67786929.83,
+    "changePercentage": -18.1,
+    "date": "2019-11-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "90d496a9-4fe9-459a-8460-0aa10ec15a7c",
+    "totalValue": 126845551.57,
+    "changePercentage": -99.8,
+    "date": "2019-12-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "a97bbd53-de6f-4d2a-8ed3-8268f94bebac",
+    "totalValue": 4946769.43,
+    "changePercentage": -25.36,
+    "date": "2020-01-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "b2d76b05-c265-4e9f-9e61-ba441d336e00",
+    "totalValue": 114293678.12,
+    "changePercentage": 0.06,
+    "date": "2020-02-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "587d124a-7f69-46a5-b2fd-66e6a1b7e2b5",
+    "totalValue": 57742426.6,
+    "changePercentage": 58.2,
+    "date": "2020-03-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "943ff75c-7803-40f2-88a9-4c7343d36d26",
+    "totalValue": 145131803.59,
+    "changePercentage": 43.58,
+    "date": "2020-04-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "31ca6ee4-58a8-42cc-a7c0-40a037c100cd",
+    "totalValue": 37044742.13,
+    "changePercentage": -38.08,
+    "date": "2020-05-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "f41bb087-dc30-4a9a-9b4c-c44d68e99520",
+    "totalValue": 117601166.01,
+    "changePercentage": 4.33,
+    "date": "2020-06-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "084c6a8c-2dd4-4d33-bf65-eaa3454e860a",
+    "totalValue": 78057899.64,
+    "changePercentage": -23.18,
+    "date": "2020-07-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "e8c2239b-88ed-40af-bd26-6fe16a15aa74",
+    "totalValue": 108593139.38,
+    "changePercentage": 91.28,
+    "date": "2020-08-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "ff09d0ea-9531-4700-81b6-169bbf67d4e6",
+    "totalValue": 25378733.65,
+    "changePercentage": -79.92,
+    "date": "2020-09-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "458cf9db-d2d5-4164-814d-3883ccea03dc",
+    "totalValue": 138248348.13,
+    "changePercentage": 25.49,
+    "date": "2020-10-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "fb9d1f84-a188-47d7-ae97-9adaf0441c59",
+    "totalValue": 141266105.37,
+    "changePercentage": 67.62,
+    "date": "2020-11-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "acb9295f-e499-4982-a74a-d434b0cf6d67",
+    "totalValue": 132157802.3,
+    "changePercentage": -25.27,
+    "date": "2020-12-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "1890369c-94d5-41af-bfc9-56c83c2832bd",
+    "totalValue": 116696935.66,
+    "changePercentage": 21.61,
+    "date": "2021-01-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "dc0be03b-992f-49a1-ad04-99062db4289d",
+    "totalValue": 104095798.73,
+    "changePercentage": -16.04,
+    "date": "2021-02-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "e9ca44fb-246f-45c8-b9e1-7db6dcdb1b00",
+    "totalValue": 94830302.98,
+    "changePercentage": -54.82,
+    "date": "2021-03-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "8e45093d-e330-4dc6-9891-59b85dee9dda",
+    "totalValue": 142109916.61,
+    "changePercentage": 72.1,
+    "date": "2021-04-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "c0969996-75da-40f6-b9eb-ec621f4109d1",
+    "totalValue": 49678616.35,
+    "changePercentage": -70.02,
+    "date": "2021-05-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "d1a2fd21-1b03-4e2d-9000-f8819fba7a82",
+    "totalValue": 145190376.52,
+    "changePercentage": -18.97,
+    "date": "2021-06-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "903d5c93-19f7-4f32-b98a-78c5cf48ef4f",
+    "totalValue": 83192042.55,
+    "changePercentage": -30.56,
+    "date": "2021-07-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "18aa3b0e-8695-4937-b6b3-a5096dc36894",
+    "totalValue": 104759545.76,
+    "changePercentage": -86.4,
+    "date": "2021-08-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "422d3802-6e2f-4e71-9eb5-f1616a03889c",
+    "totalValue": 39401848.65,
+    "changePercentage": 81.4,
+    "date": "2021-09-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "0a959fe9-2984-4907-ac7d-d3b6a4d32c85",
+    "totalValue": 138297633.42,
+    "changePercentage": -68.05,
+    "date": "2021-10-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "3c64d7af-9ca0-4fd5-b801-89e17bc8f915",
+    "totalValue": 56089731.19,
+    "changePercentage": 58.18,
+    "date": "2021-11-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "9a245987-91ad-4c9e-8c40-c66c8b6d19bf",
+    "totalValue": 10995793.13,
+    "changePercentage": -37.5,
+    "date": "2021-12-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "6cd3c6c3-f8bc-4e9e-8632-6adf6acd3f87",
+    "totalValue": 132519598.83,
+    "changePercentage": -43.25,
+    "date": "2022-01-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "1fb88712-3d37-4e7d-aa25-cf5d95b04900",
+    "totalValue": 104448611.11,
+    "changePercentage": -7.63,
+    "date": "2022-02-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "10c876ef-aedd-4f86-a327-f035896293b6",
+    "totalValue": 122211457.39,
+    "changePercentage": 12.78,
+    "date": "2022-03-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "bc2ec29e-1e84-408e-adb6-300b689c8328",
+    "totalValue": 40578387.99,
+    "changePercentage": 62.03,
+    "date": "2022-04-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "6e951be1-a358-4ff9-9c90-124256f05320",
+    "totalValue": 78034287.25,
+    "changePercentage": 36.03,
+    "date": "2022-05-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "fd636905-ba81-41ba-b8eb-d345ffa974f9",
+    "totalValue": 92650668.71,
+    "changePercentage": -53.48,
+    "date": "2022-06-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "5b9a9783-c2fb-4737-bb5e-3e721f8b9e81",
+    "totalValue": 135412779.33,
+    "changePercentage": -85.3,
+    "date": "2022-07-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "fbec4ee2-73f8-4a4f-aef7-db66b9516871",
+    "totalValue": 20656733.92,
+    "changePercentage": 22.23,
+    "date": "2022-08-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "e253e947-1d89-4598-bf27-b1e3575514fb",
+    "totalValue": 38510549.52,
+    "changePercentage": -74.26,
+    "date": "2022-09-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "3d553db7-7da1-4fff-b6bd-88ce7caaa4e7",
+    "totalValue": 45130882.3,
+    "changePercentage": 6.04,
+    "date": "2022-10-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "98ce7bd3-ce5b-400b-8f38-2af783981dc6",
+    "totalValue": 49928229.46,
+    "changePercentage": 15.13,
+    "date": "2022-11-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "374b453a-5892-4cd6-ac85-c76e94db35bc",
+    "totalValue": 74500984.5,
+    "changePercentage": 58.28,
+    "date": "2022-12-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "279a83d7-4c32-49a0-8ad3-9169ba1bee80",
+    "totalValue": 74349634.8,
+    "changePercentage": 69.5,
+    "date": "2023-01-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "f4b98af1-d1cf-459d-86aa-8816acf07518",
+    "totalValue": 12018862.74,
+    "changePercentage": -71.28,
+    "date": "2023-02-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "425d1c61-39d3-40b0-af3f-2e16d54e1b42",
+    "totalValue": 126222998.79,
+    "changePercentage": -32.68,
+    "date": "2023-03-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "80cef0b4-8365-4c7d-ac12-6578c6fe137d",
+    "totalValue": 97686499.59,
+    "changePercentage": -7.01,
+    "date": "2023-04-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "dd857460-a55f-4f73-9aa2-6ec393707728",
+    "totalValue": 5494534.35,
+    "changePercentage": -2.15,
+    "date": "2023-05-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "781b45ff-130e-4da3-9b85-90bb3be99517",
+    "totalValue": 10619052.34,
+    "changePercentage": -16.72,
+    "date": "2023-06-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "09726aeb-700c-4f29-a089-f5958007b006",
+    "totalValue": 136704299.37,
+    "changePercentage": 27.48,
+    "date": "2023-07-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "e5ed9105-2944-46b0-a6eb-7455ab1446e0",
+    "totalValue": 119744667.74,
+    "changePercentage": 30.01,
+    "date": "2023-08-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "77916de1-a75d-4ada-92da-21afd1e50cd8",
+    "totalValue": 16533642.18,
+    "changePercentage": -74.11,
+    "date": "2023-09-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "c59c355b-5ede-442a-bc50-e7bf1e373588",
+    "totalValue": 149877223.34,
+    "changePercentage": -92.02,
+    "date": "2023-10-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "76a7a2e7-2e34-410c-88fb-feb32c7f43ab",
+    "totalValue": 3493596.55,
+    "changePercentage": 26.73,
+    "date": "2023-11-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "ad6c1b55-01d7-4cb1-be1a-2fe8385e96e6",
+    "totalValue": 26878446.15,
+    "changePercentage": -88.31,
+    "date": "2023-12-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "f6b4449f-66c2-45bb-9871-941e7743178b",
+    "totalValue": 62748623.55,
+    "changePercentage": -60.12,
+    "date": "2024-01-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "c671a80d-9a7c-4dc4-9c36-ce60ce461f6b",
+    "totalValue": 99242833.12,
+    "changePercentage": -20.13,
+    "date": "2024-02-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "b43bced4-eb22-4b0b-9a16-b05ed32642d7",
+    "totalValue": 102456844.41,
+    "changePercentage": -58.53,
+    "date": "2024-03-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "9bfab9ae-2800-47cc-a23c-2a287b375242",
+    "totalValue": 42422840.17,
+    "changePercentage": 3.89,
+    "date": "2024-04-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "14744801-0a3d-49fe-a4d1-fcc74381ce0c",
+    "totalValue": 78894143.02,
+    "changePercentage": -59.17,
+    "date": "2024-05-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "f0ec2f8e-845f-4898-8f21-d9bd9b68f2f7",
+    "totalValue": 48414389.01,
+    "changePercentage": 12.06,
+    "date": "2024-06-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "7013bf4b-65a0-44fc-9f10-bf1b3f35c87c",
+    "totalValue": 105990976.79,
+    "changePercentage": 26.78,
+    "date": "2024-07-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "49dbfc13-5294-47e4-bd75-62d6e3495bb9",
+    "totalValue": 21668726.66,
+    "changePercentage": -24.34,
+    "date": "2024-08-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "aa7e8689-70c9-48f3-8439-54257f043d0d",
+    "totalValue": 53484169.36,
+    "changePercentage": -1.84,
+    "date": "2024-09-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "48025b9a-b86b-4f15-b260-d57d6b34fea9",
+    "totalValue": 47979576.48,
+    "changePercentage": 32.57,
+    "date": "2024-10-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "7259d606-c93e-48e2-bc61-bdf8bcd5655c",
+    "totalValue": 120743400.3,
+    "changePercentage": 90.93,
+    "date": "2024-11-01T06:00:00.000Z"
+  },
+  {
+    "salesSummaryId": "0a38e403-c97f-495a-a17b-694ce59cb36d",
+    "totalValue": 44120567.74,
+    "changePercentage": -98.03,
+    "date": "2024-12-01T06:00:00.000Z"
+  }
+]

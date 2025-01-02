@@ -1,0 +1,1002 @@
+[
+  {
+    "saleId": "6a2edbf1-13da-450b-ac65-0890e8aa3664",
+    "productId": "98255f4e-40a6-470f-89a5-0792729f8947",
+    "timestamp": "2024-07-04T05:54:13.682Z",
+    "quantity": 313,
+    "unitPrice": 375.2,
+    "totalAmount": 117437.6,
+    "latitude": "19.381748",
+    "longitude": "-99.237117"
+  },
+  {
+    "saleId": "f049398b-fb31-4387-b4f2-1a1350d1528b",
+    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
+    "timestamp": "2024-01-21T06:27:50.085Z",
+    "quantity": 258,
+    "unitPrice": 23.17,
+    "totalAmount": 5977.86,
+    "latitude": "22.462596",
+    "longitude": "114.082647"
+  },
+  {
+    "saleId": "5c6d40e0-9d33-4139-ab55-a953383823cd",
+    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
+    "timestamp": "2024-07-18T10:26:57.810Z",
+    "quantity": 471,
+    "unitPrice": 124.96,
+    "totalAmount": 58856.16,
+    "latitude": "22.549181",
+    "longitude": "113.882729"
+  },
+  {
+    "saleId": "63c68242-c0a1-4139-bc48-b394c521f375",
+    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
+    "timestamp": "2024-10-09T12:59:58.964Z",
+    "quantity": 227,
+    "unitPrice": 131.08,
+    "totalAmount": 29755.16,
+    "latitude": "51.434389",
+    "longitude": "0.135136"
+  },
+  {
+    "saleId": "1a3b4af8-7e76-4573-ab5c-6dbe3403f1d9",
+    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
+    "timestamp": "2024-10-01T03:20:40.666Z",
+    "quantity": 6,
+    "unitPrice": 349.87,
+    "totalAmount": 2099.22,
+    "latitude": "22.379296",
+    "longitude": "114.192373"
+  },
+  {
+    "saleId": "27410aa2-f280-4fe7-a9d2-f05e572bc701",
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "timestamp": "2024-06-22T10:04:57.449Z",
+    "quantity": 494,
+    "unitPrice": 431.49,
+    "totalAmount": 213156.06,
+    "latitude": "48.840106",
+    "longitude": "2.381043"
+  },
+  {
+    "saleId": "5af27fca-2d71-4907-8370-d9f4751cf285",
+    "productId": "d35623ee-bef6-42b2-8776-2f99f8bb4782",
+    "timestamp": "2024-02-07T13:42:02.929Z",
+    "quantity": 86,
+    "unitPrice": 480.3,
+    "totalAmount": 41305.8,
+    "latitude": "9.995753",
+    "longitude": "-84.059102"
+  },
+  {
+    "saleId": "4c965c2d-c883-458c-9007-1bfc82df61e1",
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "timestamp": "2024-07-03T21:10:41.654Z",
+    "quantity": 282,
+    "unitPrice": 16.75,
+    "totalAmount": 4723.5,
+    "latitude": "51.482777",
+    "longitude": "-0.382340"
+  },
+  {
+    "saleId": "2ebf258a-77c1-41f5-adac-61481c39777c",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-06-09T15:53:46.070Z",
+    "quantity": 232,
+    "unitPrice": 145.35,
+    "totalAmount": 33721.2,
+    "latitude": "41.418552",
+    "longitude": "2.157799"
+  },
+  {
+    "saleId": "3ebea491-4d4e-49c9-bc89-bbbde87307fd",
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "timestamp": "2024-02-03T00:09:18.759Z",
+    "quantity": 94,
+    "unitPrice": 183.4,
+    "totalAmount": 17239.6,
+    "latitude": "31.242531",
+    "longitude": "121.403593"
+  },
+  {
+    "saleId": "1cd39ee3-4823-44a8-978c-dad95e2556fd",
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "timestamp": "2024-04-23T05:34:18.091Z",
+    "quantity": 470,
+    "unitPrice": 40.64,
+    "totalAmount": 19100.8,
+    "latitude": "51.473333",
+    "longitude": "-0.063881"
+  },
+  {
+    "saleId": "87a49fbf-7602-4678-84ab-619b746174c3",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-05-04T19:16:11.827Z",
+    "quantity": 478,
+    "unitPrice": 197.37,
+    "totalAmount": 94342.86,
+    "latitude": "48.856072",
+    "longitude": "2.271551"
+  },
+  {
+    "saleId": "a49ae3bd-519d-47a2-aa7a-cf24dedb11a1",
+    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
+    "timestamp": "2024-01-29T16:24:01.696Z",
+    "quantity": 324,
+    "unitPrice": 163.16,
+    "totalAmount": 52863.84,
+    "latitude": "22.470150",
+    "longitude": "114.014281"
+  },
+  {
+    "saleId": "92c201ee-ad43-4333-bc2b-6d93dca58d4d",
+    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
+    "timestamp": "2024-09-25T22:25:32.386Z",
+    "quantity": 323,
+    "unitPrice": 73.19,
+    "totalAmount": 23640.37,
+    "latitude": "31.129755",
+    "longitude": "121.498848"
+  },
+  {
+    "saleId": "53fcd0ff-9353-4fc1-a960-9c74ab499f95",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-03-05T16:35:18.342Z",
+    "quantity": 167,
+    "unitPrice": 163.64,
+    "totalAmount": 27327.88,
+    "latitude": "19.313392",
+    "longitude": "-99.217577"
+  },
+  {
+    "saleId": "c9d2e047-3496-4875-823d-3e7258252a44",
+    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
+    "timestamp": "2024-03-30T07:37:46.866Z",
+    "quantity": 461,
+    "unitPrice": 169.04,
+    "totalAmount": 77927.44,
+    "latitude": "9.975652",
+    "longitude": "-84.010419"
+  },
+  {
+    "saleId": "7b7966e2-67af-42c9-944b-15339d8f108b",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-04-08T19:27:21.548Z",
+    "quantity": 44,
+    "unitPrice": 427.89,
+    "totalAmount": 18827.16,
+    "latitude": "-15.688626",
+    "longitude": "-47.738045"
+  },
+  {
+    "saleId": "eb089d3d-3e0f-4cef-9372-9e60a5d54ecb",
+    "productId": "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",
+    "timestamp": "2024-06-16T10:11:11.491Z",
+    "quantity": 431,
+    "unitPrice": 26.08,
+    "totalAmount": 11240.48,
+    "latitude": "9.866206",
+    "longitude": "-84.032119"
+  },
+  {
+    "saleId": "e6a96845-13ab-4c4e-a32c-4286c59053e3",
+    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
+    "timestamp": "2024-04-14T06:08:32.719Z",
+    "quantity": 134,
+    "unitPrice": 291.56,
+    "totalAmount": 39069.04,
+    "latitude": "40.591143",
+    "longitude": "-74.134420"
+  },
+  {
+    "saleId": "f665eca9-020f-4b41-b583-a3c853522710",
+    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
+    "timestamp": "2024-11-01T01:23:18.968Z",
+    "quantity": 8,
+    "unitPrice": 469.04,
+    "totalAmount": 3752.32,
+    "latitude": "22.406136",
+    "longitude": "114.008111"
+  },
+  {
+    "saleId": "120c6413-5cf0-41e1-894d-d97033aca99f",
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "timestamp": "2024-05-21T12:48:20.572Z",
+    "quantity": 269,
+    "unitPrice": 313.63,
+    "totalAmount": 84366.47,
+    "latitude": "22.213651",
+    "longitude": "114.019202"
+  },
+  {
+    "saleId": "05b8692c-69af-429f-a056-22ab5899031e",
+    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
+    "timestamp": "2024-01-13T14:53:31.611Z",
+    "quantity": 127,
+    "unitPrice": 307.35,
+    "totalAmount": 39033.45,
+    "latitude": "51.378076",
+    "longitude": "-0.396880"
+  },
+  {
+    "saleId": "82d0ff39-7c3d-4d4b-bd5e-71728dc8c315",
+    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
+    "timestamp": "2024-05-08T05:34:19.568Z",
+    "quantity": 61,
+    "unitPrice": 134.9,
+    "totalAmount": 8228.9,
+    "latitude": "31.305564",
+    "longitude": "121.424420"
+  },
+  {
+    "saleId": "7fc21f78-c9c5-4d6e-aa9d-889fa51d9caa",
+    "productId": "8d15de86-0e4a-4414-9166-7a33610202d3",
+    "timestamp": "2024-11-08T20:05:32.640Z",
+    "quantity": 312,
+    "unitPrice": 138.44,
+    "totalAmount": 43193.28,
+    "latitude": "-15.812007",
+    "longitude": "-48.068624"
+  },
+  {
+    "saleId": "a8b94dd1-9d36-4c5e-a0d7-0685c7b63d60",
+    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
+    "timestamp": "2024-07-21T15:33:50.881Z",
+    "quantity": 245,
+    "unitPrice": 389.37,
+    "totalAmount": 95395.65,
+    "latitude": "22.205888",
+    "longitude": "114.329448"
+  },
+  {
+    "saleId": "bd52d9f7-bece-4223-b301-ee7b890e4d35",
+    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
+    "timestamp": "2024-01-17T01:10:07.118Z",
+    "quantity": 488,
+    "unitPrice": 174.74,
+    "totalAmount": 85273.12,
+    "latitude": "31.217704",
+    "longitude": "121.603544"
+  },
+  {
+    "saleId": "23f57d0a-724a-4f31-91ce-f9ed5dd4c995",
+    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
+    "timestamp": "2024-07-27T18:16:47.770Z",
+    "quantity": 370,
+    "unitPrice": 401.08,
+    "totalAmount": 148399.6,
+    "latitude": "51.687671",
+    "longitude": "0.205470"
+  },
+  {
+    "saleId": "d6079479-12dc-4477-97fe-6f4f12c4d9fb",
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "timestamp": "2024-02-07T16:51:53.071Z",
+    "quantity": 192,
+    "unitPrice": 270.78,
+    "totalAmount": 51989.76,
+    "latitude": "40.739595",
+    "longitude": "-73.981439"
+  },
+  {
+    "saleId": "d2460fd5-7666-4bb3-8a06-ac55d9e452e5",
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "timestamp": "2024-03-02T23:26:18.629Z",
+    "quantity": 392,
+    "unitPrice": 365.23,
+    "totalAmount": 143170.16,
+    "latitude": "22.324467",
+    "longitude": "114.382297"
+  },
+  {
+    "saleId": "b7cc02ac-35b0-4252-b5dd-6a039a857c0a",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-01-18T20:25:06.966Z",
+    "quantity": 292,
+    "unitPrice": 385.97,
+    "totalAmount": 112703.24,
+    "latitude": "19.173254",
+    "longitude": "-99.167939"
+  },
+  {
+    "saleId": "0bc84e76-a081-43e5-ae12-f33d3f43178f",
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "timestamp": "2024-04-01T21:18:29.732Z",
+    "quantity": 346,
+    "unitPrice": 70.6,
+    "totalAmount": 24427.6,
+    "latitude": "31.263764",
+    "longitude": "121.605249"
+  },
+  {
+    "saleId": "bf1fee16-2a24-4587-9986-49afe6c59eb4",
+    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
+    "timestamp": "2024-06-20T19:49:37.443Z",
+    "quantity": 443,
+    "unitPrice": 314.71,
+    "totalAmount": 139416.53,
+    "latitude": "51.642766",
+    "longitude": "-0.389503"
+  },
+  {
+    "saleId": "686cf5b3-98a1-43d9-b1db-56c3169a29f9",
+    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
+    "timestamp": "2024-05-14T17:18:41.500Z",
+    "quantity": 329,
+    "unitPrice": 414.95,
+    "totalAmount": 136518.55,
+    "latitude": "51.545201",
+    "longitude": "-0.311733"
+  },
+  {
+    "saleId": "81773789-ccbc-4494-8c69-30855c748715",
+    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
+    "timestamp": "2024-07-23T04:49:34.551Z",
+    "quantity": 206,
+    "unitPrice": 171.19,
+    "totalAmount": 35265.14,
+    "latitude": "41.467549",
+    "longitude": "2.156098"
+  },
+  {
+    "saleId": "3765ca9b-9fae-43ad-a5f6-e352af51d478",
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "timestamp": "2024-12-04T13:07:11.162Z",
+    "quantity": 184,
+    "unitPrice": 223.22,
+    "totalAmount": 41072.48,
+    "latitude": "6.201595",
+    "longitude": "-75.579476"
+  },
+  {
+    "saleId": "2d601297-7dd6-4f1b-b2f6-8eaa182b1b46",
+    "productId": "9d5fafbc-312b-47e8-ada1-283918f0c3b5",
+    "timestamp": "2024-05-21T10:28:47.962Z",
+    "quantity": 199,
+    "unitPrice": 322.58,
+    "totalAmount": 64193.42,
+    "latitude": "40.497279",
+    "longitude": "-73.904643"
+  },
+  {
+    "saleId": "5e41753f-fa4c-4341-a27a-a12c17a70a6c",
+    "productId": "af84cc12-4fea-4f58-aece-f2ce92ca9580",
+    "timestamp": "2024-12-26T02:39:47.696Z",
+    "quantity": 28,
+    "unitPrice": 451.59,
+    "totalAmount": 12644.52,
+    "latitude": "41.374102",
+    "longitude": "2.088442"
+  },
+  {
+    "saleId": "f17f8d64-1643-4776-9f84-d31392ea49a9",
+    "productId": "c5b600dc-6bfb-492a-b335-c3cc8c707959",
+    "timestamp": "2024-09-30T18:20:00.445Z",
+    "quantity": 404,
+    "unitPrice": 106.26,
+    "totalAmount": 42929.04,
+    "latitude": "19.240467",
+    "longitude": "-99.038342"
+  },
+  {
+    "saleId": "c3880aad-f658-400d-aead-d46c1c01de0f",
+    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
+    "timestamp": "2024-06-26T13:33:38.713Z",
+    "quantity": 32,
+    "unitPrice": 80.39,
+    "totalAmount": 2572.48,
+    "latitude": "6.191140",
+    "longitude": "-75.479192"
+  },
+  {
+    "saleId": "6841355c-8b43-4b69-9e7f-73042175de11",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-05-14T07:47:32.476Z",
+    "quantity": 92,
+    "unitPrice": 129.27,
+    "totalAmount": 11892.84,
+    "latitude": "9.968453",
+    "longitude": "-84.148180"
+  },
+  {
+    "saleId": "10104142-3978-46a7-be05-473f42c98ece",
+    "productId": "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",
+    "timestamp": "2024-05-29T22:34:33.851Z",
+    "quantity": 25,
+    "unitPrice": 238.16,
+    "totalAmount": 5954,
+    "latitude": "48.851949",
+    "longitude": "2.256589"
+  },
+  {
+    "saleId": "4b95495a-595d-4740-b339-ed3dc1e0cf38",
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "timestamp": "2024-01-03T08:57:16.715Z",
+    "quantity": 389,
+    "unitPrice": 316.2,
+    "totalAmount": 123001.8,
+    "latitude": "-15.685592",
+    "longitude": "-47.942295"
+  },
+  {
+    "saleId": "392adccd-4ce8-4a81-91b5-8ea6a4c895f2",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-02-27T00:58:56.464Z",
+    "quantity": 366,
+    "unitPrice": 426.39,
+    "totalAmount": 156058.74,
+    "latitude": "41.337781",
+    "longitude": "2.226669"
+  },
+  {
+    "saleId": "9ea24933-5190-40de-93f3-85a0697f6ac7",
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "timestamp": "2024-11-02T04:24:39.173Z",
+    "quantity": 179,
+    "unitPrice": 100.16,
+    "totalAmount": 17928.64,
+    "latitude": "-15.621725",
+    "longitude": "-47.772437"
+  },
+  {
+    "saleId": "6b9b17dc-0265-454f-93f2-355860c73fe0",
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "timestamp": "2024-07-20T18:06:25.805Z",
+    "quantity": 450,
+    "unitPrice": 382.9,
+    "totalAmount": 172305,
+    "latitude": "37.872195",
+    "longitude": "-122.362707"
+  },
+  {
+    "saleId": "ba875392-316f-4b3b-9d55-e6af43ef4978",
+    "productId": "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",
+    "timestamp": "2024-10-08T20:05:40.054Z",
+    "quantity": 437,
+    "unitPrice": 124.46,
+    "totalAmount": 54389.02,
+    "latitude": "41.463701",
+    "longitude": "2.156902"
+  },
+  {
+    "saleId": "ea0718dc-d641-4341-98d6-6086dafeee9f",
+    "productId": "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",
+    "timestamp": "2024-01-14T22:48:48.968Z",
+    "quantity": 430,
+    "unitPrice": 381.66,
+    "totalAmount": 164113.8,
+    "latitude": "22.230484",
+    "longitude": "114.324668"
+  },
+  {
+    "saleId": "919d4943-60a0-4451-92b6-469dc6e05569",
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "timestamp": "2024-04-25T09:28:48.312Z",
+    "quantity": 233,
+    "unitPrice": 22.74,
+    "totalAmount": 5298.42,
+    "latitude": "40.837247",
+    "longitude": "-73.896228"
+  },
+  {
+    "saleId": "44e7a453-8d1c-487b-ab01-c317036e577e",
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "timestamp": "2024-05-26T10:07:37.190Z",
+    "quantity": 237,
+    "unitPrice": 189.19,
+    "totalAmount": 44838.03,
+    "latitude": "41.444249",
+    "longitude": "2.112310"
+  },
+  {
+    "saleId": "93847e00-0815-4b78-aab1-d897bbfec4cd",
+    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
+    "timestamp": "2024-03-18T21:09:22.083Z",
+    "quantity": 19,
+    "unitPrice": 194.73,
+    "totalAmount": 3699.87,
+    "latitude": "37.727647",
+    "longitude": "-123.077577"
+  },
+  {
+    "saleId": "415f9566-c5e6-4579-8fb3-833ebbee9938",
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "timestamp": "2024-01-20T21:13:16.730Z",
+    "quantity": 432,
+    "unitPrice": 395.03,
+    "totalAmount": 170652.96,
+    "latitude": "37.764097",
+    "longitude": "-122.851365"
+  },
+  {
+    "saleId": "ca123c03-5eb0-479a-8497-b88622f4cd30",
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "timestamp": "2024-12-09T04:07:11.199Z",
+    "quantity": 168,
+    "unitPrice": 234.35,
+    "totalAmount": 39370.8,
+    "latitude": "40.664318",
+    "longitude": "-74.037468"
+  },
+  {
+    "saleId": "958e2f2f-ca57-40b7-82aa-752ef2989947",
+    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
+    "timestamp": "2024-07-06T03:27:16.828Z",
+    "quantity": 275,
+    "unitPrice": 189.98,
+    "totalAmount": 52244.5,
+    "latitude": "37.857800",
+    "longitude": "-123.140888"
+  },
+  {
+    "saleId": "0ca2b7df-4341-4098-9a5c-78c13ade0bfd",
+    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
+    "timestamp": "2024-07-11T00:01:06.054Z",
+    "quantity": 154,
+    "unitPrice": 281.55,
+    "totalAmount": 43358.7,
+    "latitude": "9.864851",
+    "longitude": "-83.982916"
+  },
+  {
+    "saleId": "71cddbce-7077-428e-9acf-af290b9b5bce",
+    "productId": "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",
+    "timestamp": "2024-01-03T18:39:02.013Z",
+    "quantity": 452,
+    "unitPrice": 97.93,
+    "totalAmount": 44264.36,
+    "latitude": "31.327041",
+    "longitude": "121.383789"
+  },
+  {
+    "saleId": "57b94ed2-698b-453f-b819-94ca8931706d",
+    "productId": "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",
+    "timestamp": "2024-10-16T22:20:31.424Z",
+    "quantity": 225,
+    "unitPrice": 422.99,
+    "totalAmount": 95172.75,
+    "latitude": "37.873708",
+    "longitude": "-122.450845"
+  },
+  {
+    "saleId": "52642cfa-8eeb-47be-a663-9faba5c84543",
+    "productId": "e5b0da8c-148d-4680-b262-8609fb8a10da",
+    "timestamp": "2024-09-19T00:05:24.130Z",
+    "quantity": 362,
+    "unitPrice": 13.03,
+    "totalAmount": 4716.86,
+    "latitude": "19.102019",
+    "longitude": "-99.043594"
+  },
+  {
+    "saleId": "bc8413e9-a562-49c5-8249-97613d0bfd36",
+    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
+    "timestamp": "2024-07-24T00:23:11.547Z",
+    "quantity": 257,
+    "unitPrice": 170.78,
+    "totalAmount": 43890.46,
+    "latitude": "48.901065",
+    "longitude": "2.318217"
+  },
+  {
+    "saleId": "3d3d4069-18e9-4d68-b7f3-cc168cd1c49e",
+    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
+    "timestamp": "2024-07-23T12:18:21.763Z",
+    "quantity": 160,
+    "unitPrice": 393.78,
+    "totalAmount": 63004.8,
+    "latitude": "40.570087",
+    "longitude": "-74.106507"
+  },
+  {
+    "saleId": "bb0adfe4-3592-4ab6-b7ba-b2414ced191d",
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "timestamp": "2024-10-03T01:38:54.147Z",
+    "quantity": 367,
+    "unitPrice": 361.41,
+    "totalAmount": 132637.47,
+    "latitude": "22.571457",
+    "longitude": "114.296813"
+  },
+  {
+    "saleId": "fab6e0b0-7fc6-4508-8b73-4b2c11e02c33",
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "timestamp": "2024-06-15T12:57:59.408Z",
+    "quantity": 458,
+    "unitPrice": 152.4,
+    "totalAmount": 69799.2,
+    "latitude": "-15.616609",
+    "longitude": "-47.777627"
+  },
+  {
+    "saleId": "62327ca2-0947-488a-8108-0d23df595e78",
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "timestamp": "2024-10-30T13:10:21.005Z",
+    "quantity": 391,
+    "unitPrice": 80.17,
+    "totalAmount": 31346.47,
+    "latitude": "6.244374",
+    "longitude": "-75.614617"
+  },
+  {
+    "saleId": "408c652e-23dc-4c2f-9a23-20a5bd56881d",
+    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
+    "timestamp": "2024-12-09T16:06:34.380Z",
+    "quantity": 402,
+    "unitPrice": 18.8,
+    "totalAmount": 7557.6,
+    "latitude": "41.396738",
+    "longitude": "2.181242"
+  },
+  {
+    "saleId": "3a12e98a-4a9d-45cd-8e75-98c360ba543f",
+    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
+    "timestamp": "2024-03-17T11:54:25.841Z",
+    "quantity": 347,
+    "unitPrice": 431.57,
+    "totalAmount": 149754.79,
+    "latitude": "51.341044",
+    "longitude": "-0.226727"
+  },
+  {
+    "saleId": "52caccd9-9ec2-4b9f-b6d3-090eca7be6f3",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-09-20T23:47:44.177Z",
+    "quantity": 276,
+    "unitPrice": 230.04,
+    "totalAmount": 63491.04,
+    "latitude": "-15.617359",
+    "longitude": "-47.702616"
+  },
+  {
+    "saleId": "614f79d0-2c89-4baa-b15e-0da439c6d3dc",
+    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
+    "timestamp": "2024-08-01T12:39:28.832Z",
+    "quantity": 60,
+    "unitPrice": 499.82,
+    "totalAmount": 29989.2,
+    "latitude": "19.135009",
+    "longitude": "-99.049392"
+  },
+  {
+    "saleId": "c6c81ad5-2212-4e88-a6d1-8de684c0c6c4",
+    "productId": "154b7860-23a2-4564-ad99-1745ab7122ef",
+    "timestamp": "2024-11-26T17:44:13.523Z",
+    "quantity": 39,
+    "unitPrice": 403.43,
+    "totalAmount": 15733.77,
+    "latitude": "51.634157",
+    "longitude": "0.101053"
+  },
+  {
+    "saleId": "ed173841-9937-4d9b-b68d-12ef4e78e114",
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "timestamp": "2024-02-22T22:15:40.758Z",
+    "quantity": 411,
+    "unitPrice": 220.04,
+    "totalAmount": 90436.44,
+    "latitude": "-15.796534",
+    "longitude": "-47.731324"
+  },
+  {
+    "saleId": "138bec11-0766-440f-9507-e50bb4ead0e8",
+    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
+    "timestamp": "2024-08-15T01:17:03.351Z",
+    "quantity": 98,
+    "unitPrice": 452.11,
+    "totalAmount": 44306.78,
+    "latitude": "48.832277",
+    "longitude": "2.355603"
+  },
+  {
+    "saleId": "71d61104-e109-4765-9784-6268ed1a17af",
+    "productId": "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",
+    "timestamp": "2024-12-17T22:40:12.778Z",
+    "quantity": 124,
+    "unitPrice": 156.17,
+    "totalAmount": 19365.08,
+    "latitude": "9.990280",
+    "longitude": "-83.991229"
+  },
+  {
+    "saleId": "8d8e9ed9-1f50-49a3-87c0-2a2e768e7645",
+    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
+    "timestamp": "2024-12-11T06:33:28.639Z",
+    "quantity": 333,
+    "unitPrice": 26.07,
+    "totalAmount": 8681.31,
+    "latitude": "31.186993",
+    "longitude": "121.415328"
+  },
+  {
+    "saleId": "a610725c-750f-4b00-ac57-eacb52dd0e6b",
+    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
+    "timestamp": "2024-12-14T10:19:48.446Z",
+    "quantity": 452,
+    "unitPrice": 212.43,
+    "totalAmount": 96018.36,
+    "latitude": "31.322542",
+    "longitude": "121.420144"
+  },
+  {
+    "saleId": "5a4659fb-a9a0-4a9c-973c-bf717caea08c",
+    "productId": "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",
+    "timestamp": "2024-07-10T18:07:43.526Z",
+    "quantity": 225,
+    "unitPrice": 275.87,
+    "totalAmount": 62070.75,
+    "latitude": "31.166338",
+    "longitude": "121.527974"
+  },
+  {
+    "saleId": "673d128b-ded3-492f-82e6-9d5d43b43aa0",
+    "productId": "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",
+    "timestamp": "2024-03-31T04:15:09.857Z",
+    "quantity": 391,
+    "unitPrice": 392.87,
+    "totalAmount": 153612.17,
+    "latitude": "51.549080",
+    "longitude": "0.185966"
+  },
+  {
+    "saleId": "4d69c9ff-6911-4037-8c7c-9a5329e5ac84",
+    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
+    "timestamp": "2024-11-23T14:16:32.361Z",
+    "quantity": 314,
+    "unitPrice": 150.69,
+    "totalAmount": 47316.66,
+    "latitude": "51.594227",
+    "longitude": "0.137335"
+  },
+  {
+    "saleId": "8b576da0-6caf-4847-8e4d-3c70fd220f53",
+    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
+    "timestamp": "2024-03-18T22:41:24.576Z",
+    "quantity": 321,
+    "unitPrice": 238.96,
+    "totalAmount": 76706.16,
+    "latitude": "10.009265",
+    "longitude": "-84.008260"
+  },
+  {
+    "saleId": "d1f7ea1e-b569-431c-a82b-cb89dd427f16",
+    "productId": "afded6df-058f-477d-9878-e0e0b1d3dff3",
+    "timestamp": "2024-01-05T13:36:28.505Z",
+    "quantity": 185,
+    "unitPrice": 351.19,
+    "totalAmount": 64970.15,
+    "latitude": "22.275300",
+    "longitude": "114.028118"
+  },
+  {
+    "saleId": "79b0ad59-5fb1-43b1-868e-7b3a8919d93f",
+    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
+    "timestamp": "2024-04-26T01:59:22.672Z",
+    "quantity": 179,
+    "unitPrice": 389.73,
+    "totalAmount": 69761.67,
+    "latitude": "6.344001",
+    "longitude": "-75.529993"
+  },
+  {
+    "saleId": "5b5af067-40d0-4b7d-a2c1-0d6a0f92d303",
+    "productId": "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",
+    "timestamp": "2024-12-30T16:59:06.913Z",
+    "quantity": 176,
+    "unitPrice": 216.05,
+    "totalAmount": 38024.8,
+    "latitude": "31.329033",
+    "longitude": "121.389629"
+  },
+  {
+    "saleId": "eff4b433-7b0e-43fa-98e8-d0fd7a84ffbd",
+    "productId": "daa29167-82a7-474b-9687-b8b903e7ec69",
+    "timestamp": "2024-03-04T18:01:36.672Z",
+    "quantity": 180,
+    "unitPrice": 70.75,
+    "totalAmount": 12735,
+    "latitude": "19.471286",
+    "longitude": "-99.148307"
+  },
+  {
+    "saleId": "e374a856-6c0d-4c06-ae50-26fde0daca66",
+    "productId": "8d4bf814-65d4-4df4-84cc-68911d925fdf",
+    "timestamp": "2024-09-14T10:56:29.074Z",
+    "quantity": 311,
+    "unitPrice": 51.95,
+    "totalAmount": 16156.45,
+    "latitude": "-15.634635",
+    "longitude": "-48.072886"
+  },
+  {
+    "saleId": "de5f39a4-13c4-49e3-aa6b-df4426997994",
+    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
+    "timestamp": "2024-08-18T19:48:22.060Z",
+    "quantity": 165,
+    "unitPrice": 431.19,
+    "totalAmount": 71146.35,
+    "latitude": "37.818222",
+    "longitude": "-122.761519"
+  },
+  {
+    "saleId": "2090caee-6897-4f41-b95d-6bc9e9d3e763",
+    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
+    "timestamp": "2024-04-12T00:19:06.779Z",
+    "quantity": 481,
+    "unitPrice": 269.62,
+    "totalAmount": 129687.22,
+    "latitude": "9.981524",
+    "longitude": "-83.982232"
+  },
+  {
+    "saleId": "9e66380e-3f7b-4769-9330-1448ae04330c",
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "timestamp": "2024-07-01T20:40:13.421Z",
+    "quantity": 273,
+    "unitPrice": 72.29,
+    "totalAmount": 19735.17,
+    "latitude": "40.702557",
+    "longitude": "-74.150534"
+  },
+  {
+    "saleId": "3b0e17a4-eb1f-4f7d-a189-2539912c97d8",
+    "productId": "d8f5bee3-f3eb-4071-a124-6b857e0fd798",
+    "timestamp": "2024-08-20T09:59:45.663Z",
+    "quantity": 457,
+    "unitPrice": 121.07,
+    "totalAmount": 55328.99,
+    "latitude": "6.186083",
+    "longitude": "-75.542639"
+  },
+  {
+    "saleId": "42a0c8a9-3c08-4658-a26c-fd0e0392d960",
+    "productId": "0114d5d4-ae48-46fa-b0ca-afe60eb88add",
+    "timestamp": "2024-11-08T19:34:45.232Z",
+    "quantity": 305,
+    "unitPrice": 98.37,
+    "totalAmount": 30002.85,
+    "latitude": "9.888223",
+    "longitude": "-84.012615"
+  },
+  {
+    "saleId": "b2c6ebfa-9a07-4699-855a-2c1a536f26ec",
+    "productId": "8ac1ac77-7358-425e-be16-0bdde9f02e59",
+    "timestamp": "2024-03-30T04:48:21.712Z",
+    "quantity": 132,
+    "unitPrice": 309.29,
+    "totalAmount": 40826.28,
+    "latitude": "-15.820278",
+    "longitude": "-47.993966"
+  },
+  {
+    "saleId": "236250ff-06bf-4ccb-9e35-102398e38154",
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "timestamp": "2024-09-08T14:37:58.718Z",
+    "quantity": 64,
+    "unitPrice": 172.97,
+    "totalAmount": 11070.08,
+    "latitude": "9.962717",
+    "longitude": "-84.138723"
+  },
+  {
+    "saleId": "0d682431-c976-44dc-95c1-048f221bee0f",
+    "productId": "ccb83982-71f3-4497-bad8-7e64c6920dc6",
+    "timestamp": "2024-06-18T20:00:04.384Z",
+    "quantity": 30,
+    "unitPrice": 331.97,
+    "totalAmount": 9959.1,
+    "latitude": "41.451695",
+    "longitude": "2.215280"
+  },
+  {
+    "saleId": "19d21ff6-3162-4566-83a6-53d2fadf5b0c",
+    "productId": "fcf2e432-62a3-4b6f-a34d-36e42a12272e",
+    "timestamp": "2024-01-05T17:17:50.030Z",
+    "quantity": 328,
+    "unitPrice": 432.53,
+    "totalAmount": 141869.84,
+    "latitude": "40.610290",
+    "longitude": "-74.243732"
+  },
+  {
+    "saleId": "f9f66bd4-c123-415c-9941-d25cc2596f4c",
+    "productId": "2be5b024-2c96-4f29-912c-c6f36353f799",
+    "timestamp": "2024-12-24T04:39:11.868Z",
+    "quantity": 5,
+    "unitPrice": 427.35,
+    "totalAmount": 2136.75,
+    "latitude": "41.360713",
+    "longitude": "2.190566"
+  },
+  {
+    "saleId": "dad72666-bfdf-4499-ad17-38497f867c81",
+    "productId": "c849a535-5f8b-47e3-889c-015693a644ac",
+    "timestamp": "2024-05-30T19:15:47.845Z",
+    "quantity": 469,
+    "unitPrice": 198.58,
+    "totalAmount": 93134.02,
+    "latitude": "37.886188",
+    "longitude": "-122.467688"
+  },
+  {
+    "saleId": "b81cab60-9e61-4038-a2d6-cedf2542c59d",
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "timestamp": "2024-12-15T06:02:13.114Z",
+    "quantity": 384,
+    "unitPrice": 142.64,
+    "totalAmount": 54773.76,
+    "latitude": "9.873330",
+    "longitude": "-84.076508"
+  },
+  {
+    "saleId": "9b026c59-204a-4557-bc40-42201e5ba98b",
+    "productId": "1afc136b-4d9f-4e8e-aace-8e1df908a404",
+    "timestamp": "2024-05-23T12:41:42.272Z",
+    "quantity": 302,
+    "unitPrice": 112.3,
+    "totalAmount": 33914.6,
+    "latitude": "31.229047",
+    "longitude": "121.555372"
+  },
+  {
+    "saleId": "1fd72c4a-0ae6-419f-beb7-c169b180b284",
+    "productId": "8a8391b2-b4ac-4847-b652-66ffd8d65875",
+    "timestamp": "2024-05-22T02:27:14.091Z",
+    "quantity": 390,
+    "unitPrice": 324.41,
+    "totalAmount": 126519.9,
+    "latitude": "40.663113",
+    "longitude": "-73.722854"
+  },
+  {
+    "saleId": "5592354c-6c9a-465d-b827-7b304c1cce16",
+    "productId": "1936d406-e89e-40e4-bff7-1827532269d4",
+    "timestamp": "2024-04-11T05:29:48.415Z",
+    "quantity": 333,
+    "unitPrice": 250.7,
+    "totalAmount": 83483.1,
+    "latitude": "-15.839827",
+    "longitude": "-47.794328"
+  },
+  {
+    "saleId": "147b8ec6-dbd1-4780-a713-2d9140506ebc",
+    "productId": "000a8c23-5bca-436c-a216-4e747a94c511",
+    "timestamp": "2024-04-10T20:20:18.156Z",
+    "quantity": 380,
+    "unitPrice": 25.05,
+    "totalAmount": 9519,
+    "latitude": "40.757088",
+    "longitude": "-74.072388"
+  },
+  {
+    "saleId": "06bf5dac-f9b4-4bf6-a0e6-caf8f6848e1d",
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "timestamp": "2024-03-28T02:41:39.115Z",
+    "quantity": 156,
+    "unitPrice": 45.76,
+    "totalAmount": 7138.56,
+    "latitude": "41.341845",
+    "longitude": "2.153170"
+  },
+  {
+    "saleId": "8ac54b82-fa8b-46ce-8e84-163c5dea37fa",
+    "productId": "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",
+    "timestamp": "2024-10-02T19:06:25.321Z",
+    "quantity": 428,
+    "unitPrice": 79.31,
+    "totalAmount": 33944.68,
+    "latitude": "48.879074",
+    "longitude": "2.389104"
+  },
+  {
+    "saleId": "4100ffd1-d480-49d6-8737-06bad5a9c7e6",
+    "productId": "be2157fb-7454-405e-9511-bf7ba81b7726",
+    "timestamp": "2024-10-04T02:49:27.309Z",
+    "quantity": 294,
+    "unitPrice": 108.59,
+    "totalAmount": 31925.46,
+    "latitude": "22.262300",
+    "longitude": "114.268734"
+  }
+]
