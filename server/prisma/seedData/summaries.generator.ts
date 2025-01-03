@@ -20,7 +20,7 @@ export interface ExpenseSummary {
   date: string;
 }
 
-const generateUUID = (): string => {
+export const generateUUID = (): string => {
   return "xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g, function (c) {
     const r = (Math.random() * 16) | 0,
       v = c === "x" ? r : (r & 0x3) | 0x8;
@@ -28,15 +28,15 @@ const generateUUID = (): string => {
   });
 };
 
-const generateRandomValue = (): number => {
+export const generateRandomValue = (): number => {
   return parseFloat((Math.random() * 150000000).toFixed(2));
 };
 
-const generateRandomPercentage = (): number => {
+export const generateRandomPercentage = (): number => {
   return parseFloat((Math.random() * 200 - 100).toFixed(2));
 };
 
-const generateMonthlyDates = (): string[] => {
+export const generateMonthlyDates = (): string[] => {
   const dates: string[] = [];
   const currentDate = new Date();
   const startYear = currentDate.getFullYear() - 5;
@@ -53,7 +53,7 @@ const generateMonthlyDates = (): string[] => {
   return dates;
 };
 
-const generatePurchaseSummaries = (): PurchaseSummary[] => {
+export const generatePurchaseSummaries = (): PurchaseSummary[] => {
   const dates = generateMonthlyDates();
   return dates.map((date) => ({
     purchaseSummaryId: generateUUID(),
@@ -63,7 +63,7 @@ const generatePurchaseSummaries = (): PurchaseSummary[] => {
   }));
 };
 
-const generateSalesSummaries = (): SalesSummary[] => {
+export const generateSalesSummaries = (): SalesSummary[] => {
   const dates = generateMonthlyDates();
   return dates.map((date) => ({
     salesSummaryId: generateUUID(),
@@ -73,7 +73,7 @@ const generateSalesSummaries = (): SalesSummary[] => {
   }));
 };
 
-const generateExpenseSummaries = (): ExpenseSummary[] => {
+export const generateExpenseSummaries = (): ExpenseSummary[] => {
   const dates = generateMonthlyDates();
   return dates.map((date) => ({
     expenseSummaryId: generateUUID(),
@@ -82,16 +82,16 @@ const generateExpenseSummaries = (): ExpenseSummary[] => {
   }));
 };
 
-const writeJSONFile = (filename: string, data: object): void => {
+export const writeJSONFile = (filename: string, data: object): void => {
   fs.writeFileSync(filename, JSON.stringify(data, null, 2), "utf-8");
   console.log(`File generated: ${filename}`);
 };
 
-const purchaseSummaries = generatePurchaseSummaries();
+export const purchaseSummaries = generatePurchaseSummaries();
 writeJSONFile("purchaseSummaries.json", purchaseSummaries);
 
-const salesSummaries = generateSalesSummaries();
+export const salesSummaries = generateSalesSummaries();
 writeJSONFile("salesSummaries.json", salesSummaries);
 
-const expenseSummaries = generateExpenseSummaries();
+export const expenseSummaries = generateExpenseSummaries();
 writeJSONFile("expenseSummaries.json", expenseSummaries);

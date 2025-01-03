@@ -72,7 +72,7 @@ const cities: City[] = [
 ];
  
 
-function generateSales(numSales: number): Sale[] {
+export function generateSales(numSales: number): Sale[] {
   const sales: Sale[] = [];
 
   for (let i = 0; i < numSales; i++) { 
@@ -99,7 +99,7 @@ function generateSales(numSales: number): Sale[] {
   return sales;
 }
 
-function generateUUID(): string {
+export function generateUUID(): string {
   return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
     const r = (Math.random() * 16) | 0;
     const v = c === 'x' ? r : (r & 0x3) | 0x8;

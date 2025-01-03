@@ -13,6 +13,7 @@ markerclusterer
 Medellín
 México
 nodenext
+nosniff
 persistor
 setTimeFrame
 TimeFrame

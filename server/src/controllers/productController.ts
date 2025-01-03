@@ -3,19 +3,9 @@ import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
-export const getProducts = async (
-  req: Request,
-  res: Response
-): Promise<void> => {
+export const getProducts = async (_req: Request, res: Response) => {
   try {
-    const search = req.query.search?.toString();
-    const products = await prisma.products.findMany({
-      where: {
-        name: {
-          contains: search,
-        },
-      },
-    });
+    const products = await prisma.products.findMany();
     res.json(products);
   } catch (error) {
     res.status(500).json({ message: "Error retrieving products" });

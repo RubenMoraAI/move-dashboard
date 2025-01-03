@@ -1,0 +1,427 @@
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Code coverage report for src/seed-generator/sales.generator.ts</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../../prettify.css" />
+    <link rel="stylesheet" href="../../base.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="../../favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style type='text/css'>
+        .coverage-summary .sorter {
+            background-image: url(../../sort-arrow-sprite.png);
+        }
+    </style>
+</head>
+    
+<body>
+<div class='wrapper'>
+    <div class='pad1'>
+        <h1><a href="../../index.html">All files</a> / <a href="index.html">src/seed-generator</a> sales.generator.ts</h1>
+        <div class='clearfix'>
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">0% </span>
+                <span class="quiet">Statements</span>
+                <span class='fraction'>0/114</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">0% </span>
+                <span class="quiet">Branches</span>
+                <span class='fraction'>0/1</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">0% </span>
+                <span class="quiet">Functions</span>
+                <span class='fraction'>0/1</span>
+            </div>
+        
+            
+            <div class='fl pad1y space-right2'>
+                <span class="strong">0% </span>
+                <span class="quiet">Lines</span>
+                <span class='fraction'>0/114</span>
+            </div>
+        
+            
+        </div>
+        <p class="quiet">
+            Press <em>n</em> or <em>j</em> to go to the next uncovered block, <em>b</em>, <em>p</em> or <em>k</em> for the previous block.
+        </p>
+        <template id="filterTemplate">
+            <div class="quiet">
+                Filter:
+                <input type="search" id="fileSearch">
+            </div>
+        </template>
+    </div>
+    <div class='status-line low'></div>
+    <pre><table class="coverage">
+<tr><td class="line-count quiet"><a name='L1'></a><a href='#L1'>1</a>
+<a name='L2'></a><a href='#L2'>2</a>
+<a name='L3'></a><a href='#L3'>3</a>
+<a name='L4'></a><a href='#L4'>4</a>
+<a name='L5'></a><a href='#L5'>5</a>
+<a name='L6'></a><a href='#L6'>6</a>
+<a name='L7'></a><a href='#L7'>7</a>
+<a name='L8'></a><a href='#L8'>8</a>
+<a name='L9'></a><a href='#L9'>9</a>
+<a name='L10'></a><a href='#L10'>10</a>
+<a name='L11'></a><a href='#L11'>11</a>
+<a name='L12'></a><a href='#L12'>12</a>
+<a name='L13'></a><a href='#L13'>13</a>
+<a name='L14'></a><a href='#L14'>14</a>
+<a name='L15'></a><a href='#L15'>15</a>
+<a name='L16'></a><a href='#L16'>16</a>
+<a name='L17'></a><a href='#L17'>17</a>
+<a name='L18'></a><a href='#L18'>18</a>
+<a name='L19'></a><a href='#L19'>19</a>
+<a name='L20'></a><a href='#L20'>20</a>
+<a name='L21'></a><a href='#L21'>21</a>
+<a name='L22'></a><a href='#L22'>22</a>
+<a name='L23'></a><a href='#L23'>23</a>
+<a name='L24'></a><a href='#L24'>24</a>
+<a name='L25'></a><a href='#L25'>25</a>
+<a name='L26'></a><a href='#L26'>26</a>
+<a name='L27'></a><a href='#L27'>27</a>
+<a name='L28'></a><a href='#L28'>28</a>
+<a name='L29'></a><a href='#L29'>29</a>
+<a name='L30'></a><a href='#L30'>30</a>
+<a name='L31'></a><a href='#L31'>31</a>
+<a name='L32'></a><a href='#L32'>32</a>
+<a name='L33'></a><a href='#L33'>33</a>
+<a name='L34'></a><a href='#L34'>34</a>
+<a name='L35'></a><a href='#L35'>35</a>
+<a name='L36'></a><a href='#L36'>36</a>
+<a name='L37'></a><a href='#L37'>37</a>
+<a name='L38'></a><a href='#L38'>38</a>
+<a name='L39'></a><a href='#L39'>39</a>
+<a name='L40'></a><a href='#L40'>40</a>
+<a name='L41'></a><a href='#L41'>41</a>
+<a name='L42'></a><a href='#L42'>42</a>
+<a name='L43'></a><a href='#L43'>43</a>
+<a name='L44'></a><a href='#L44'>44</a>
+<a name='L45'></a><a href='#L45'>45</a>
+<a name='L46'></a><a href='#L46'>46</a>
+<a name='L47'></a><a href='#L47'>47</a>
+<a name='L48'></a><a href='#L48'>48</a>
+<a name='L49'></a><a href='#L49'>49</a>
+<a name='L50'></a><a href='#L50'>50</a>
+<a name='L51'></a><a href='#L51'>51</a>
+<a name='L52'></a><a href='#L52'>52</a>
+<a name='L53'></a><a href='#L53'>53</a>
+<a name='L54'></a><a href='#L54'>54</a>
+<a name='L55'></a><a href='#L55'>55</a>
+<a name='L56'></a><a href='#L56'>56</a>
+<a name='L57'></a><a href='#L57'>57</a>
+<a name='L58'></a><a href='#L58'>58</a>
+<a name='L59'></a><a href='#L59'>59</a>
+<a name='L60'></a><a href='#L60'>60</a>
+<a name='L61'></a><a href='#L61'>61</a>
+<a name='L62'></a><a href='#L62'>62</a>
+<a name='L63'></a><a href='#L63'>63</a>
+<a name='L64'></a><a href='#L64'>64</a>
+<a name='L65'></a><a href='#L65'>65</a>
+<a name='L66'></a><a href='#L66'>66</a>
+<a name='L67'></a><a href='#L67'>67</a>
+<a name='L68'></a><a href='#L68'>68</a>
+<a name='L69'></a><a href='#L69'>69</a>
+<a name='L70'></a><a href='#L70'>70</a>
+<a name='L71'></a><a href='#L71'>71</a>
+<a name='L72'></a><a href='#L72'>72</a>
+<a name='L73'></a><a href='#L73'>73</a>
+<a name='L74'></a><a href='#L74'>74</a>
+<a name='L75'></a><a href='#L75'>75</a>
+<a name='L76'></a><a href='#L76'>76</a>
+<a name='L77'></a><a href='#L77'>77</a>
+<a name='L78'></a><a href='#L78'>78</a>
+<a name='L79'></a><a href='#L79'>79</a>
+<a name='L80'></a><a href='#L80'>80</a>
+<a name='L81'></a><a href='#L81'>81</a>
+<a name='L82'></a><a href='#L82'>82</a>
+<a name='L83'></a><a href='#L83'>83</a>
+<a name='L84'></a><a href='#L84'>84</a>
+<a name='L85'></a><a href='#L85'>85</a>
+<a name='L86'></a><a href='#L86'>86</a>
+<a name='L87'></a><a href='#L87'>87</a>
+<a name='L88'></a><a href='#L88'>88</a>
+<a name='L89'></a><a href='#L89'>89</a>
+<a name='L90'></a><a href='#L90'>90</a>
+<a name='L91'></a><a href='#L91'>91</a>
+<a name='L92'></a><a href='#L92'>92</a>
+<a name='L93'></a><a href='#L93'>93</a>
+<a name='L94'></a><a href='#L94'>94</a>
+<a name='L95'></a><a href='#L95'>95</a>
+<a name='L96'></a><a href='#L96'>96</a>
+<a name='L97'></a><a href='#L97'>97</a>
+<a name='L98'></a><a href='#L98'>98</a>
+<a name='L99'></a><a href='#L99'>99</a>
+<a name='L100'></a><a href='#L100'>100</a>
+<a name='L101'></a><a href='#L101'>101</a>
+<a name='L102'></a><a href='#L102'>102</a>
+<a name='L103'></a><a href='#L103'>103</a>
+<a name='L104'></a><a href='#L104'>104</a>
+<a name='L105'></a><a href='#L105'>105</a>
+<a name='L106'></a><a href='#L106'>106</a>
+<a name='L107'></a><a href='#L107'>107</a>
+<a name='L108'></a><a href='#L108'>108</a>
+<a name='L109'></a><a href='#L109'>109</a>
+<a name='L110'></a><a href='#L110'>110</a>
+<a name='L111'></a><a href='#L111'>111</a>
+<a name='L112'></a><a href='#L112'>112</a>
+<a name='L113'></a><a href='#L113'>113</a>
+<a name='L114'></a><a href='#L114'>114</a>
+<a name='L115'></a><a href='#L115'>115</a></td><td class="line-coverage quiet"><span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js"><span class="cstat-no" title="statement not covered" ><span class="fstat-no" title="function not covered" ><span class="branch-0 cbranch-no" title="branch not covered" >import * as fs from 'fs';</span></span></span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >type Sale = {</span>
+<span class="cstat-no" title="statement not covered" >  saleId: string;</span>
+<span class="cstat-no" title="statement not covered" >  productId: string;</span>
+<span class="cstat-no" title="statement not covered" >  timestamp: string;</span>
+<span class="cstat-no" title="statement not covered" >  quantity: number;</span>
+<span class="cstat-no" title="statement not covered" >  unitPrice: number;</span>
+<span class="cstat-no" title="statement not covered" >  totalAmount: number;</span>
+<span class="cstat-no" title="statement not covered" >  latitude: string;</span>
+<span class="cstat-no" title="statement not covered" >  longitude: string;</span>
+<span class="cstat-no" title="statement not covered" >};</span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >const productIds = [</span>
+<span class="cstat-no" title="statement not covered" >  "d35623ee-bef6-42b2-8776-2f99f8bb4782",</span>
+<span class="cstat-no" title="statement not covered" >  "8ac1ac77-7358-425e-be16-0bdde9f02e59",</span>
+<span class="cstat-no" title="statement not covered" >  "1afc136b-4d9f-4e8e-aace-8e1df908a404",</span>
+<span class="cstat-no" title="statement not covered" >  "af84cc12-4fea-4f58-aece-f2ce92ca9580",</span>
+<span class="cstat-no" title="statement not covered" >  "86e3bb1c-2f5d-4774-98f3-4df7cddd0a0f",</span>
+<span class="cstat-no" title="statement not covered" >  "26b017c6-06d8-443f-9b4a-d6b1cee6f4c0",</span>
+<span class="cstat-no" title="statement not covered" >  "440c9e80-6bf8-4eb3-b2d2-f81936d67de3",</span>
+<span class="cstat-no" title="statement not covered" >  "98255f4e-40a6-470f-89a5-0792729f8947",</span>
+<span class="cstat-no" title="statement not covered" >  "2a339fb2-f9f3-43bc-a85a-b217a0a38f12",</span>
+<span class="cstat-no" title="statement not covered" >  "8a8391b2-b4ac-4847-b652-66ffd8d65875",</span>
+<span class="cstat-no" title="statement not covered" >  "be2157fb-7454-405e-9511-bf7ba81b7726",</span>
+<span class="cstat-no" title="statement not covered" >  "fdf1ba3d-fa06-4ce5-90ff-d081c5d37176",</span>
+<span class="cstat-no" title="statement not covered" >  "afded6df-058f-477d-9878-e0e0b1d3dff3",</span>
+<span class="cstat-no" title="statement not covered" >  "daa29167-82a7-474b-9687-b8b903e7ec69",</span>
+<span class="cstat-no" title="statement not covered" >  "ccb83982-71f3-4497-bad8-7e64c6920dc6",</span>
+<span class="cstat-no" title="statement not covered" >  "1936d406-e89e-40e4-bff7-1827532269d4",</span>
+<span class="cstat-no" title="statement not covered" >  "c849a535-5f8b-47e3-889c-015693a644ac",</span>
+<span class="cstat-no" title="statement not covered" >  "0c3e80ee-59b3-4fc4-b760-8b07acc2d3ae",</span>
+<span class="cstat-no" title="statement not covered" >  "d8f5bee3-f3eb-4071-a124-6b857e0fd798",</span>
+<span class="cstat-no" title="statement not covered" >  "8d15de86-0e4a-4414-9166-7a33610202d3",</span>
+<span class="cstat-no" title="statement not covered" >  "ea8fd0b9-c2d9-4d43-9c23-44cb99d079bb",</span>
+<span class="cstat-no" title="statement not covered" >  "25d01c80-bca1-4a00-b1d0-0fbd39ff9e89",</span>
+<span class="cstat-no" title="statement not covered" >  "1d6df6e3-b7ea-4507-9d66-87c6ee8ed5b9",</span>
+<span class="cstat-no" title="statement not covered" >  "000a8c23-5bca-436c-a216-4e747a94c511",</span>
+<span class="cstat-no" title="statement not covered" >  "c5b600dc-6bfb-492a-b335-c3cc8c707959",</span>
+<span class="cstat-no" title="statement not covered" >  "9d5fafbc-312b-47e8-ada1-283918f0c3b5",</span>
+<span class="cstat-no" title="statement not covered" >  "0114d5d4-ae48-46fa-b0ca-afe60eb88add",</span>
+<span class="cstat-no" title="statement not covered" >  "e5b0da8c-148d-4680-b262-8609fb8a10da",</span>
+<span class="cstat-no" title="statement not covered" >  "2be5b024-2c96-4f29-912c-c6f36353f799",</span>
+<span class="cstat-no" title="statement not covered" >  "fcf2e432-62a3-4b6f-a34d-36e42a12272e",</span>
+<span class="cstat-no" title="statement not covered" >  "fc4c81e5-f1ac-40f5-8c6f-da3fbad5599d",</span>
+<span class="cstat-no" title="statement not covered" >  "07238d8e-0037-4972-87ca-0df206ee3e42",</span>
+<span class="cstat-no" title="statement not covered" >  "154b7860-23a2-4564-ad99-1745ab7122ef",</span>
+<span class="cstat-no" title="statement not covered" >  "8d4bf814-65d4-4df4-84cc-68911d925fdf",</span>
+<span class="cstat-no" title="statement not covered" >  "a52bf1bd-3d35-4cd2-849a-354e3952e2d2",</span>
+<span class="cstat-no" title="statement not covered" >];</span>
+<span class="cstat-no" title="statement not covered" > </span>
+<span class="cstat-no" title="statement not covered" >type City = {</span>
+<span class="cstat-no" title="statement not covered" >  name: string;</span>
+<span class="cstat-no" title="statement not covered" >  minLat: number;</span>
+<span class="cstat-no" title="statement not covered" >  maxLat: number;</span>
+<span class="cstat-no" title="statement not covered" >  minLong: number;</span>
+<span class="cstat-no" title="statement not covered" >  maxLong: number;</span>
+<span class="cstat-no" title="statement not covered" >};</span>
+<span class="cstat-no" title="statement not covered" >  </span>
+<span class="cstat-no" title="statement not covered" >const cities: City[] = [</span>
+<span class="cstat-no" title="statement not covered" >  { name: "New York", minLat: 40.4774, maxLat: 40.9176, minLong: -74.2591, maxLong: -73.7004 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "London", minLat: 51.2868, maxLat: 51.6919, minLong: -0.5104, maxLong: 0.3340 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "Paris", minLat: 48.8156, maxLat: 48.9022, minLong: 2.2242, maxLong: 2.4699 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "Barcelona", minLat: 41.3200, maxLat: 41.4700, minLong: 2.0690, maxLong: 2.2290 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "Shanghai", minLat: 31.1123, maxLat: 31.4118, minLong: 121.3798, maxLong: 121.6519 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "Hong Kong", minLat: 22.1497, maxLat: 22.6140, minLong: 113.8378, maxLong: 114.4517 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "Ciudad de México", minLat: 19.0728, maxLat: 19.5437, minLong: -99.3643, maxLong: -98.9482 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "San José (CR)", minLat: 9.8580, maxLat: 10.0124, minLong: -84.1526, maxLong: -83.9734 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "San Francisco (USA)", minLat: 37.6398, maxLat: 37.9298, minLong: -123.1738, maxLong: -122.2818 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "Brasilia", minLat: -15.8697, maxLat: -15.5989, minLong: -48.1376, maxLong: -47.6969 },</span>
+<span class="cstat-no" title="statement not covered" >  { name: "Medellín", minLat: 6.1390, maxLat: 6.3677, minLong: -75.6587, maxLong: -75.4511 },</span>
+<span class="cstat-no" title="statement not covered" >];</span>
+<span class="cstat-no" title="statement not covered" > </span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >export function generateSales(numSales: number): Sale[] {</span>
+<span class="cstat-no" title="statement not covered" >  const sales: Sale[] = [];</span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >  for (let i = 0; i &lt; numSales; i++) { </span>
+<span class="cstat-no" title="statement not covered" >    const city = cities[Math.floor(Math.random() * cities.length)];</span>
+<span class="cstat-no" title="statement not covered" > </span>
+<span class="cstat-no" title="statement not covered" >    const latitude = (Math.random() * (city.maxLat - city.minLat) + city.minLat).toFixed(6);</span>
+<span class="cstat-no" title="statement not covered" >    const longitude = (Math.random() * (city.maxLong - city.minLong) + city.minLong).toFixed(6);</span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >    const sale: Sale = {</span>
+<span class="cstat-no" title="statement not covered" >      saleId: generateUUID(),</span>
+<span class="cstat-no" title="statement not covered" >      productId: productIds[Math.floor(Math.random() * productIds.length)],</span>
+<span class="cstat-no" title="statement not covered" >      timestamp: new Date(Date.now() - Math.floor(Math.random() * 365 * 24 * 60 * 60 * 1000)).toISOString(),</span>
+<span class="cstat-no" title="statement not covered" >      quantity: Math.floor(Math.random() * 500) + 1,</span>
+<span class="cstat-no" title="statement not covered" >      unitPrice: parseFloat((Math.random() * (500 - 10) + 10).toFixed(2)),</span>
+<span class="cstat-no" title="statement not covered" >      totalAmount: 0.0,</span>
+<span class="cstat-no" title="statement not covered" >      latitude: latitude,</span>
+<span class="cstat-no" title="statement not covered" >      longitude: longitude</span>
+<span class="cstat-no" title="statement not covered" >    };</span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >    sale.totalAmount = parseFloat((sale.quantity * sale.unitPrice).toFixed(2));</span>
+<span class="cstat-no" title="statement not covered" >    sales.push(sale);</span>
+<span class="cstat-no" title="statement not covered" >  }</span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >  return sales;</span>
+<span class="cstat-no" title="statement not covered" >}</span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >export function generateUUID(): string {</span>
+<span class="cstat-no" title="statement not covered" >  return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {</span>
+<span class="cstat-no" title="statement not covered" >    const r = (Math.random() * 16) | 0;</span>
+<span class="cstat-no" title="statement not covered" >    const v = c === 'x' ? r : (r &amp; 0x3) | 0x8;</span>
+<span class="cstat-no" title="statement not covered" >    return v.toString(16);</span>
+<span class="cstat-no" title="statement not covered" >  });</span>
+<span class="cstat-no" title="statement not covered" >}</span>
+<span class="cstat-no" title="statement not covered" > </span>
+<span class="cstat-no" title="statement not covered" >const salesData = generateSales(100);</span>
+<span class="cstat-no" title="statement not covered" >const outputFile = 'sales.json';</span>
+<span class="cstat-no" title="statement not covered" >fs.writeFileSync(outputFile, JSON.stringify(salesData, null, 2));</span>
+<span class="cstat-no" title="statement not covered" ></span>
+<span class="cstat-no" title="statement not covered" >console.log(`File '${outputFile}' generated with ${salesData.length} sales.`);</span>
+&nbsp;</pre></td></tr></table></pre>
+
+                <div class='push'></div><!-- for sticky footer -->
+            </div><!-- /wrapper -->
+            <div class='footer quiet pad2 space-top1 center small'>
+                Code coverage generated by
+                <a href="https://istanbul.js.org/" target="_blank" rel="noopener noreferrer">istanbul</a>
+                at 2025-01-03T21:59:48.589Z
+            </div>
+        <script src="../../prettify.js"></script>
+        <script>
+            window.onload = function () {
+                prettyPrint();
+            };
+        </script>
+        <script src="../../sorter.js"></script>
+        <script src="../../block-navigation.js"></script>
+    </body>
+</html>
+    
