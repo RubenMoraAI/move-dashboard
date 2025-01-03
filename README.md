@@ -1,5 +1,6 @@
 # MOVE App, sample in Next.js of a functional Dashboard
 
+![Dashboard Screenshot](./images/og-image.jpg)
 ##  Description of the project
 
 This project is a sample of a functional dashboard designed to manage inventory efficiently. It includes the following features:
@@ -20,6 +21,7 @@ This dashboard is built using Next.js, a robust React framework with Node.js in 
 - **Redux Toolkit Query**
 - **Material UI Data Grid**
 - **Node.js**
+- **Jest**
 - **Docker**
 - **docker-compose**
 - **Prisma**
@@ -30,9 +32,7 @@ This dashboard is built using Next.js, a robust React framework with Node.js in 
 
 ## How to run the project
 
-TODO: Add instructions to run the project
-
-## Server in local
+### Server in local
 
 ```bash
 npm install 
@@ -47,7 +47,7 @@ docker-compose up -d
 ```
 And the API server is running in the port 3001!
 
-## Client in local
+### Client in local
 
 ```bash
 npm install 
@@ -61,7 +61,7 @@ docker-compose up -d
 ```
 And the client is running in the port 3000!
 
-## Client in development
+### Client in development
 
 ```bash
 npm install 
