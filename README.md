@@ -26,6 +26,7 @@ This dashboard is built using Next.js, a robust React framework with Node.js in 
 - **docker-compose**
 - **Prisma**
 
+![Principal Screenshot](./images/screenshot.jpg)
 ## Resources and Links
 
 - [Prisma schema visualization](https://prisma-editor.vercel.app/schema/12335?token=cm5fh8t6h0000hihvjpk2pvve)

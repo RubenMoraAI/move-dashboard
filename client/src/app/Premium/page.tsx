@@ -6,6 +6,7 @@ import BillingToggle from "./components/BillingToggle";
 import PlanCard from "./components/PlanCard";
 import { PLANS_FEATURES } from "./components/planFeatures";
 import { ThumbsUp } from "lucide-react";
+import UserInviteCard from "./components/UserInviteCard";
 
 const UpgradePlanPage = () => {
   const [billingCycle, setBillingCycle] = useState("Annual");
@@ -14,13 +15,17 @@ const UpgradePlanPage = () => {
     <div className="py-16 px-6 bg-gray-50 dark:bg-gray-900 min-h-screen">
       {/* Header */}
       <div className="mb-12">
-        <h1 className="text-4xl font-bold text-gray-800 dark:text-gray-100 text-left">
+        <div className="flex row justify-between"><h1 className="text-4xl font-bold text-gray-800 dark:text-gray-100 text-left">
           Upgrade Plan
-        </h1>
+        </h1> <div className="flex justify-center mb-8">
+        <UserInviteCard />
+      </div></div>
+        
         <p className="flex text-lg text-gray-600 dark:text-gray-300 text-left mt-2">
-        <ThumbsUp className="mr-2" />Our pricing plans are designed to meet your needs as you grow.
+          <ThumbsUp className="mr-2" />Our pricing plans are designed to meet your needs as you grow.
         </p>
       </div>
+     
 
       {/* Billing Toggle */}
       <BillingToggle

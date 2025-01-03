@@ -15,6 +15,7 @@ México
 nodenext
 nosniff
 persistor
+rubenmora
 setTimeFrame
 TimeFrame
 vercel
