@@ -1,3 +1,4 @@
+import React from 'react';
 import { useRef } from "react";
 import { combineReducers, configureStore } from "@reduxjs/toolkit";
 import {
@@ -24,7 +25,7 @@ import { PersistGate } from "redux-persist/integration/react";
 import createWebStorage from "redux-persist/lib/storage/createWebStorage";
 
 /* REDUX PERSISTENCE */
-const createNoopStorage = () => {
+export const createNoopStorage = () => {
   return {
     getItem(_key: string) {
       return Promise.resolve(null);

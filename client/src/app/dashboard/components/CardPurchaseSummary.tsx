@@ -34,7 +34,7 @@ const CardPurchaseSummary = ({ cssProperty }: CardPurchaseSummaryProps) => {
   };
 
   return (
-    <div
+    <div data-testid="card-purchase-summary"
       className={`flex flex-col justify-between bg-white dark:bg-gray-700 shadow-md rounded-2xl ${cssProperty}`}
     >
       {isLoading ? (

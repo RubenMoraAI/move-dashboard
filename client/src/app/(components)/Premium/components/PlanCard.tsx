@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { CheckCircle, Star } from "lucide-react";
 import { useConfetti } from "@/context/ConfettiContext";
 

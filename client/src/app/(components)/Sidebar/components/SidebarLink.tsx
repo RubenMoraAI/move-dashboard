@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { usePathname, useRouter } from "next/navigation";
 import Link from "next/link";
 import { Lock } from "lucide-react";
@@ -48,7 +49,7 @@ export const SidebarLink = ({
           {!isCollapsed && <span className="font-medium">{label}</span>}
         </div> 
         {isLocked && !isCollapsed && (
-          <Lock className="w-5 h-5 text-gray-500 dark:text-gray-400" />
+          <Lock role="locked" className="w-5 h-5 text-gray-500 dark:text-gray-400" />
         )}
       </div>
     </Link>

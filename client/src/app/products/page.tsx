@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { PlusCircle, Search } from "lucide-react";
 import Header from "@/app/(components)/Header";
 import Rating from "@/app/(components)/Rating";
@@ -16,7 +17,7 @@ type ProductFormData = {
   rating: number;
 };
 
-const Products = () => {
+const ProductsPage = () => {
   const {
     searchTerm,
     handleSearchChange,
@@ -28,6 +29,7 @@ const Products = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
   const [createProduct] = useCreateProductMutation();
+
   const handleCreateProduct = async (productData: ProductFormData) => {
     await createProduct(productData);
   };
@@ -108,4 +110,4 @@ const Products = () => {
   );
 };
 
-export default Products;
+export default ProductsPage;

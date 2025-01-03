@@ -51,7 +51,7 @@ const StatCard = ({
       {/* BODY */}
       <div className="flex mb-6 items-center justify-between gap-4 px-5">
         {/* Icon */}
-        <div className="rounded-full p-5 bg-indigo-100 dark:bg-indigo-700 border-indigo-300 dark:border-gray-600 border-[1px] flex-shrink-0">
+        <div className="rounded-full p-5 bg-indigo-100 dark:bg-indigo-500 border-indigo-300 dark:border-gray-600 border-[1px] flex-shrink-1">
           {primaryIcon}
         </div>
         {/* Details */}
@@ -60,7 +60,7 @@ const StatCard = ({
             <React.Fragment key={index}>
               <div className="flex items-center justify-between my-4">
                 {/* Title */}
-                <span className="text-gray-500 dark:text-gray-400 flex-1">
+                <span className="text-gray-500 dark:text-gray-400 flex-1 block lg:hidden xl:block">
                   {detail.title}
                 </span>
                 {/* Amount */}

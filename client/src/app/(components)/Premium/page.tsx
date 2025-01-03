@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { useState } from "react";
 import BillingToggle from "./components/BillingToggle";
 import PlanCard from "./components/PlanCard";

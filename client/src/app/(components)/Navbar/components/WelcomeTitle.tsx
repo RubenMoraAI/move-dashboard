@@ -1,7 +1,6 @@
-import React from "react"; 
+import React from "react";
 
-
-const WelcomeTitle  = () => {
+const WelcomeTitle = () => {
   const getGreeting = () => {
     const hour = new Date().getHours();
     if (hour < 12) return "Good Morning";
@@ -9,10 +8,12 @@ const WelcomeTitle  = () => {
     return "Good Evening";
   };
 
+  const greeting = `${getGreeting()}, Welcome back!`;
+
   return (
     <div className="flex items-center gap-3">
-      <h1 className="text-2xl font-bold text-indigo-800 dark:text-indigo-200">
-        {getGreeting()}, Welcome back!
+      <h1 className="text-2xl font-bold text-indigo-800 dark:text-indigo-200" aria-label={greeting}>
+        {greeting}
       </h1>
     </div>
   );

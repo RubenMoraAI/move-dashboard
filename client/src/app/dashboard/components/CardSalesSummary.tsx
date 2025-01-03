@@ -167,7 +167,7 @@ const CardSalesSummary = ({ cssProperty = "" }: CardSalesSummaryProps) => {
             <hr className="border-gray-300 dark:border-gray-600" />
             <div className="flex justify-between items-center mt-6 text-sm px-7 mb-4 text-gray-700 dark:text-gray-200">
               <p>{salesData.length || 0} days</p>
-              <p className="text-sm">
+              <p role="note" className="text-sm">
                 Highest Sales Date:{" "}
                 <span className="font-bold">{highestValueDate}</span>
               </p>

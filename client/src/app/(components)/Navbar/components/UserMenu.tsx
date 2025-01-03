@@ -1,16 +1,30 @@
-import React, { useState } from "react";
-import { ChevronDown, User, Phone,  LogOut } from "lucide-react";
+import React, { useState, useEffect, useRef } from "react";
+import { ChevronDown, User, Phone, LogOut } from "lucide-react";
 import Image from "next/image";
 
 const UserMenu = () => {
   const [isOpen, setIsOpen] = useState(false);
+  const menuRef = useRef<HTMLDivElement>(null);
 
   const toggleMenu = () => {
     setIsOpen(!isOpen);
   };
 
+  const handleClickOutside = (event: MouseEvent) => {
+    if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
+      setIsOpen(false);
+    }
+  };
+
+  useEffect(() => {
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
+
   return (
-    <div className="relative">
+    <div className="relative" ref={menuRef}>
       {/* User Header */}
       <div
         className="flex min-w-36 items-center gap-3 cursor-pointer p-1 bg-white dark:bg-gray-700 shadow-md rounded-lg"
@@ -47,7 +61,7 @@ const UserMenu = () => {
               <span className="text-sm font-medium text-gray-700 dark:text-gray-200">
                 My Contacts
               </span>
-            </li> 
+            </li>
             <hr className="my-2 border-gray-300 dark:border-gray-600" />
             <li className="flex items-center gap-3 px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-700 cursor-pointer">
               <LogOut size={18} className="text-gray-600 dark:text-gray-300" />

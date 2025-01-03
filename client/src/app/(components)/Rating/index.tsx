@@ -6,11 +6,13 @@ type RatingProps = {
 };
 
 const Rating = ({ rating }: RatingProps) => {
+  const roundedRating = Math.floor(rating); 
   return [1, 2, 3, 4, 5].map((index) => (
     <Star
       key={index}
-      color={index <= rating ? "#FFC107" : "#E4E5E9"}
-      className="w-4 h-4"
+      role="img" 
+      fill={index <= roundedRating ? "#FFC107" : "#E4E5E9"} 
+      className="w-4 h-4 "
     />
   ));
 };

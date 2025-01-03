@@ -3,7 +3,7 @@
 import React from "react";
 import { DataGrid, GridColDef } from "@mui/x-data-grid";
 import Header from "@/app/(components)/Header";
-import { dataGridStyles } from "./dataGridStyles";
+import { dataGridStyles } from "./dataGrid.styles";
 
 interface DataGridWrapperProps {
   title: string;

@@ -7,6 +7,7 @@ import {
   TrendingDown,
   TrendingUp,
 } from "lucide-react";
+import React from "react";
 import CardExpenseSummary from "./components/CardExpenseSummary";
 import CardPopularProducts from "./components/CardPopularProducts";
 import CardPurchaseSummary from "./components/CardPurchaseSummary";
@@ -22,7 +23,7 @@ const Dashboard = () => {
   const statCardData = [
     {
       title: "Customer & Expenses",
-      primaryIcon: <Package className="text-indigo-600 dark:text-indigo-300 w-6 h-6" />,
+      primaryIcon: <Package className="text-indigo-600 dark:text-indigo-100 w-6 h-6" />,
       dateRange: "22 - 29 October 2023",
       details: [
         {
@@ -41,7 +42,7 @@ const Dashboard = () => {
     },
     {
       title: "Dues & Pending Orders",
-      primaryIcon: <CheckCircle className="text-indigo-600 dark:text-indigo-300 w-6 h-6" />,
+      primaryIcon: <CheckCircle className="text-indigo-600 dark:text-indigo-100 w-6 h-6" />,
       dateRange: "22 - 29 October 2023",
       details: [
         {
@@ -59,8 +60,8 @@ const Dashboard = () => {
       ],
     },
     {
-      title: "Sales & Discount",
-      primaryIcon: <Tag className="text-indigo-600 dark:text-indigo-300 w-6 h-6" />,
+      title: "Sales & Discount offers",
+      primaryIcon: <Tag className="text-indigo-600 dark:text-indigo-100 w-6 h-6" />,
       dateRange: "22 - 29 October 2023",
       details: [
         {
