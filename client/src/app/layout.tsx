@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://github.com/RubenMoraAI/move-dashboard/blob/master/images/og-image.jpg",
+        url: "https://raw.githubusercontent.com/RubenMoraAI/move-dashboard/refs/heads/master/images/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Move App Dashboard",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Move App | Ecommerce Dashboard & AI Analytics",
     description: "The ultimate platform to analyze and enhance your online business with AI-powered insights.",
-    images: "https://github.com/RubenMoraAI/move-dashboard/blob/master/images/twitter-card.jpg",
+    images: "https://raw.githubusercontent.com/RubenMoraAI/move-dashboard/refs/heads/master/images/twitter-card.jpg",
   },
 };
 
